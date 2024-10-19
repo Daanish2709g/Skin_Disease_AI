@@ -24,7 +24,7 @@
 <br><br>
            
 ###     <p align = "center"> You can access the web version at https://teledermatologis-ai.streamlit.app/ </p>
-###     <p align = "center"> Check out the project paper at https://ieeexplore.ieee.org/abstract/document/10402645 </p>
+
 ####     <p align = "center"> I would appreciate hearing your thoughts on it. Thank you! </p>
 
 <br>
@@ -69,6 +69,4 @@ We utilized the Xception architecture to create our skin lesion diagnosis model.
 ---
 
 
-<div align="center">
-  Made with ❤️ by <a href="https://github.com/NadavIs56">Nadav Ishai</a>
-</div>
+
